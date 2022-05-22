@@ -1,3 +1,0 @@
-model.eval()            # Turn off some layers such as dropout, batch normalization for model inference
-with torch.no_grad():   # Turn off gradient calculation
-    pass
